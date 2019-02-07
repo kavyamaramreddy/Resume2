@@ -1,0 +1,41 @@
+*{
+text-decoration: uppercase;
+text-align:center;
+
+}
+.card{
+background: #aad;
+width: 25%;
+margin: auto;
+padding: 2px;
+border-radius: 5px;
+box-shadow: 2px 2px 2px black;
+}
+
+.cards{
+  display: flex;
+}
+/*media quaries*/
+@media  (min-device-width:350px) and (max-device-width:480px){
+  .cards {
+    width:98%;
+      flex-wrap: wrap;
+      margin:1%;
+      font-size: 1em;
+  }
+  .card{
+  width:98%;
+  margin-top : 2em;
+}
+@media  (min-device-width:481px) and (max-device-width:780px){
+  .cards {
+    width:98%;
+      flex-wrap: wrap;
+      margin:1%;
+      font-size: 1em;
+  }
+  .card{
+  width:98%;
+  margin-top : 2em;
+}
+}

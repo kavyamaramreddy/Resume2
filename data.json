@@ -1,0 +1,60 @@
+{
+	"index": [{
+			"image": "profile.jfif",
+			"name": "kavya",
+			"ooc": "student",
+			"profile": "profile"
+		},
+		{
+
+			"image": "profile.jpg",
+			"name": "alekhya",
+			"ooc": "students",
+			"profile": "profile"
+		}
+
+	],
+	"personalDetails": {
+    "image": "profile.jpg",
+    	"myname": "kavya",
+		"designation": "software",
+		"fname": "D/o balu",
+		"email": "kavya@gmail.com",
+		"phno": "999999934",
+		"address": "medarametla"
+	},
+	"career": {
+		"obj": "career object",
+		"co": "To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills. Secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company.Seeking an entry "
+	},
+	"education": [{
+			"qualification": "graduation",
+			"inst": "B-Tech GITAM Deemed to be University, Hyderabad GITAM with 8.59 CGPA ,2015-19"
+		},
+		{
+			"qualification": "intermidiate",
+			"inst": " Sri Chaitanya junior college Vijayawada, Ongole Board of Intermediate Education, A.P 922  2013-15"
+		},
+		{
+			"qualification": "ssc",
+			"inst": "10th (Secondary Examination) in Sri Nagarjuna high school, Medarametla SSC, A.P with 9.5gpA 2012 "
+		}
+	],
+	"awards": {
+    "obj":"awards",
+		"achievement": "Scholarships.Honor Roll inclusion for high grades.Awards won for specific activities or subjects(i.e., Most Valuable Player(MVP), Fine Art Award) Inclusion in student - related achievement publications(i.e., Who 's Who in American High Schools) Perfect attendance awards"
+	},
+
+		"Activities": [{
+				"data": " 2017-18  organized 2 workshops for BrainTech Championship 2018 inassociationwith Azure Skynet (P) Ltd. And ELAN & NVISION – IIT Hyderabad"
+			},
+			{
+				"data": "Participated in NSS Special Camp on Role of Youth in Nation Building for  7 days"
+			},
+			{
+				"data": "  Organized workshop Soft skills and Healthy Minds in GITAM"
+			}
+		]
+
+
+}
